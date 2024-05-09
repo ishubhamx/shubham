@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.63ffa884.css",
-    "main.js": "/static/js/main.613ba91b.js",
-    "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/service-worker.js",
-    "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/defaultNavLogo.svg": "/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.63ffa884.css.map": "/static/css/main.63ffa884.css.map",
-    "main.613ba91b.js.map": "/static/js/main.613ba91b.js.map"
+    "main.css": "/shubham/static/css/main.63ffa884.css",
+    "main.js": "/shubham/static/js/main.0c6015c8.js",
+    "static/media/hero-dark.jpg": "/shubham/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/shubham/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/shubham/service-worker.js",
+    "static/media/GH.svg": "/shubham/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/shubham/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/shubham/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shubham/index.html",
+    "main.63ffa884.css.map": "/shubham/static/css/main.63ffa884.css.map",
+    "main.0c6015c8.js.map": "/shubham/static/js/main.0c6015c8.js.map"
   },
   "entrypoints": [
     "static/css/main.63ffa884.css",
-    "static/js/main.613ba91b.js"
+    "static/js/main.0c6015c8.js"
   ]
 }
